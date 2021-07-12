@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramdinlokesh910
 - 👀 I’m interested in developing applications in Java Technology
-- 🌱 I’m currently learning Algrithms and Machine learnning.
+- 🌱 I’m currently learning Algorithms and Data Structures.
 - 💞️ I’m looking to collaborate on Backend development services
 
 
